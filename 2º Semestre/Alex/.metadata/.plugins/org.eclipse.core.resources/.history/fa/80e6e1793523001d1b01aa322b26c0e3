@@ -1,0 +1,19 @@
+package aula;
+
+import java.util.Scanner;
+
+public class Exercicio04 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int numero=sc.nextInt();
+		int numero1=sc.nextInt();
+		int multiplicacao=numero.numero1;
+		
+		System.out.println(numero+ " . " +numero1+ " = " +soma);
+sc.close();
+	}
+
+}
